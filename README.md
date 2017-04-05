@@ -17,12 +17,12 @@ docker images
 Then tag
 
 ```
-docker tag ebef7ac16ffc tedb/lambda-build-box:2
+docker tag ebef7ac16ffc tedb/lambda-build-box:8
 ```
 
 Then push
 
 ```
-docker push tedb/lambda-build-box:2
+docker push tedb/lambda-build-box:8
 ```
 
